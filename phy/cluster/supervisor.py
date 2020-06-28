@@ -401,10 +401,10 @@ class ActionCreator(object):
         'label': 'l',
 
         # Move.
-        'move_best_to_noise': 'alt+n',
-        'move_best_to_mua': 'alt+m',
-        'move_best_to_good': 'alt+g',
-        'move_best_to_unsorted': 'alt+u',
+        'move_best_to_noise': 'shift+n',
+        'move_best_to_mua': 'shift+m',
+        'move_best_to_good': 'shift+g',
+        'move_best_to_unsorted': 'shift+u',
 
         'move_similar_to_noise': 'ctrl+n',
         'move_similar_to_mua': 'ctrl+m',
